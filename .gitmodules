@@ -1,6 +1,6 @@
 [submodule "forum"]
 	path = forum
-	url = /Users/muziqiu/VSCodeProjects/ReactSmolApp/forum
+	url = https://github.com/cooleditphoto/forum
 [submodule "todolist"]
 	path = todolist
-	url = /Users/muziqiu/VSCodeProjects/ReactSmolApp/todolist
+	url = https://github.com/cooleditphoto/todolist
