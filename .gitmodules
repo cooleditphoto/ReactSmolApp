@@ -1,0 +1,6 @@
+[submodule "forum"]
+	path = forum
+	url = /Users/muziqiu/VSCodeProjects/ReactSmolApp/forum
+[submodule "todolist"]
+	path = todolist
+	url = /Users/muziqiu/VSCodeProjects/ReactSmolApp/todolist
